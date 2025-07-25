@@ -23,15 +23,15 @@ Link here ...
 
 ### 🧾 Slide Deck (Architecture & Flow)  
 
-[📊 View slides](https://view.genially.com/688347d156c297da43cffd05)
+[View slides](https://view.genially.com/688347d156c297da43cffd05)
 
 ### 🧪 Codelab Demo (Interactive)  
 
 [codelab_ai-enineering-course-poc_keepcoding.ipynb](./codelab_ai-enineering-course-poc_keepcoding.ipynb)
 
-### 📺 Video Walkthrough of the Codelab  
+### 📺 Video Walkthrough of the Codelab
 
-[video-codelab_ai-enineering-course-poc_keepcoding.webm](./video-codelab_ai-enineering-course-poc_keepcoding.webm)
+[video-codelab_ai-enineering-course-poc_keepcoding](https://drive.google.com/file/d/1Tz2MA1xn1IBHIG3ID4BXVn5TIGBqULxN/view)
 
 ## 🧭 Architecture Overview
 
