@@ -8,12 +8,12 @@ Instead of manually thinking through each captured note, this assistant helps de
 
 ## What This POC Includes
 
-- ⚙️ **Classification and reasoning model**: decides if the task is an ACTION or a RESULT.
-- 🧠 **Context engine**: asks the user questions to gather relevant metadata (when, where, dependencies...).
-- ✍️ **Action generator**: rewrites or suggests concrete next steps.
-- 💾 **Data persistence layer**: stores input, classification, context, and final output.
-- 🧪 **Interactive Codelab**: try the flow with a mock model.
-- 🖼️ **Architecture diagram**: explains the flow between components.
+- [x] **Classification and reasoning model**: decides if the task is an ACTION or a RESULT.
+- [ ] **Context engine**: asks the user questions to gather relevant metadata (when, where, dependencies...).
+- [ ] **Action generator**: rewrites or suggests concrete next steps.
+- [ ] **Data persistence layer**: stores input, classification, context, and final output.
+- [x] **Interactive Codelab**: try the flow with a mock model.
+- [x] **Architecture diagram**: explains the flow between components.
 
 ## Resources
 
