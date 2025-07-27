@@ -2,7 +2,7 @@
 
 > AI Assistant for Intelligent Work Definition (POC)
 
-This is a Proof of Concept (POC) for an **AI-powered assistant** that helps knowledge workers define tasks captured in their inbox, following the **Getting Things Done (GTD)** methodology by David Allen.
+This is a Proof of Concept (POC) for an **AI-powered assistant** that helps knowledge workers define tasks captured in their inbox, following the **[Getting Things Done (GTD)](https://gettingthingsdone.com/)** methodology by [David Allen](https://x.com/gtdguy?lang=en).
 
 Instead of manually thinking through each captured note, this assistant helps determine whether the input is an **ACTION** (single-step) or a **RESULT** (multi-step outcome), asking for clarifying context only when needed. Once clarified, it suggests well-defined next steps or rewrites the task for immediate execution.
 
