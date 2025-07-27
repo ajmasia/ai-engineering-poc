@@ -1,6 +1,6 @@
 # Keepcoding AI Engineering course POC
 
-> AI Assistant for Intelligent Task Definition (POC)
+> AI Assistant for Intelligent Work Definition (POC)
 
 This is a Proof of Concept (POC) for an **AI-powered assistant** that helps knowledge workers define tasks captured in their inbox, following the **Getting Things Done (GTD)** methodology by David Allen.
 
