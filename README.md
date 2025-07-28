@@ -17,10 +17,6 @@ Instead of manually thinking through each captured note, this assistant helps de
 
 ## Resources
 
-### Presentation Video  
-
-[Video](./presentacion_curso-ai-engineering_keepcoding.mkv)
-
 ### Slide Deck (Architecture & Flow)  
 
 [View slides](https://view.genially.com/688347d156c297da43cffd05)
